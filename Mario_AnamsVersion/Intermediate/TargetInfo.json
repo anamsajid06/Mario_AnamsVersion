@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Mario_AnamsVersion",
+			"Path": "D:\\Dev\\Github\\Mario_AnamsVersion\\Mario_AnamsVersion\\Source\\Mario_AnamsVersion.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Mario_AnamsVersionEditor",
+			"Path": "D:\\Dev\\Github\\Mario_AnamsVersion\\Mario_AnamsVersion\\Source\\Mario_AnamsVersionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

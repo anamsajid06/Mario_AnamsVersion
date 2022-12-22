@@ -1,0 +1,39 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\msari\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Dev\Github\Mario_AnamsVersion).
+  Creating makefile for Mario_AnamsVersionEditor (no existing makefile)
+  Parsing headers for Mario_AnamsVersionEditor
+    Running UnrealHeaderTool "D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Mario_AnamsVersion.uproject" "D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\Mario_AnamsVersionEditor\Development\Mario_AnamsVersionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\msari\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for Mario_AnamsVersionEditor in 1.0824718 seconds
+  Building Mario_AnamsVersionEditor...
+  Using Visual Studio 2022 14.34.31935 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from Mario_AnamsVersion unity file: EmptyClass.cpp, Mario_AnamsVersion.cpp
+  Distributing 7 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  
+  Build ID: {191BF6E9-24FD-40C8-85A4-C94B28D5B2EC}
+  
+  --------------------Project: Default-------------------------------------------
+  [1/7] SharedPCH.Engine.ShadowErrors.cpp (0:31.48 at +0:00)
+  [2/7] Default.rc2 (0:00.07 at +0:31)
+  [3/7] EmptyClass.cpp (0:01.29 at +0:31)
+  [4/7] Mario_AnamsVersion.cpp (0:01.39 at +0:32)
+  [5/7] UnrealEditor-Mario_AnamsVersion.dll (0:01.20 at +0:34)
+     Creating library D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\UnrealEditor\Development\Mario_AnamsVersion\UnrealEditor-Mario_AnamsVersion.suppressed.lib and object D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\UnrealEditor\Development\Mario_AnamsVersion\UnrealEditor-Mario_AnamsVersion.suppressed.exp
+  [6/7] UnrealEditor-Mario_AnamsVersion.lib (0:00.29 at +0:35)
+     Creating library D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\UnrealEditor\Development\Mario_AnamsVersion\UnrealEditor-Mario_AnamsVersion.lib and object D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\UnrealEditor\Development\Mario_AnamsVersion\UnrealEditor-Mario_AnamsVersion.exp
+  [7/7] Mario_AnamsVersionEditor.target (0:00.18 at +0:35)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 36.07 seconds
+  Total execution time: 38.83 seconds

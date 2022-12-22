@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Mario_AnamsVersion.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\Mario_AnamsVersionEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\UnrealEditor\Development\Mario_AnamsVersion\EmptyClass.cpp.obj"
+"D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\UnrealEditor\Development\Mario_AnamsVersion\Mario_AnamsVersion.cpp.obj"
+"D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\UnrealEditor\Development\Mario_AnamsVersion\Default.rc2.res"
+/OUT:"D:\Dev\Github\Mario_AnamsVersion\Mario_AnamsVersion\Intermediate\Build\Win64\UnrealEditor\Development\Mario_AnamsVersion\UnrealEditor-Mario_AnamsVersion.lib"

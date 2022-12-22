@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\github\\mario_anamsversion\\mario_anamsversion\\source\\mario_anamsversion\\mario_anamsversion.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\github\\mario_anamsversion\\mario_anamsversion\\intermediate\\build\\win64\\mario_anamsversioneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\dev\\github\\mario_anamsversion\\mario_anamsversion\\intermediate\\build\\win64\\unrealeditor\\development\\mario_anamsversion\\definitions.mario_anamsversion.h",
+            "d:\\dev\\github\\mario_anamsversion\\mario_anamsversion\\source\\mario_anamsversion\\mario_anamsversion.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
